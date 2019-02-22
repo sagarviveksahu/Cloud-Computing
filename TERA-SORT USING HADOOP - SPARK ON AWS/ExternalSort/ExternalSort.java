@@ -9,7 +9,6 @@ import java.util.*;
 
 //ExternalSort Implementation
 /**
- * @author Suraj Didwania
  * External Sorting on 128 GB using i3.large instance Implementation
  * task: Provide the input file and implement the external sort using in-place merge sort
  */
